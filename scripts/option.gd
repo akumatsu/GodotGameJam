@@ -15,7 +15,7 @@ func _process(delta):
 
 func _on_texture_button_pressed():
 	get_tree().change_scene_to_file(back)
-	pass # Replace with function body.
+	pass 
 
 
 func _on_texture_button_1_pressed():
